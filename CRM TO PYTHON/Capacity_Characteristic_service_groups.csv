@@ -1,0 +1,38 @@
+Characteristic,Group
+Υπηρεσίες MDA,0.1 MDA installation
+Υπηρεσίες BG,0.2 BG installation
+Εγκατάσταση Κλιματιστικών,0.3 AC installation
+Συντήρηση Απολύμανση Κλιματιστικών,0.4 AC Maintenence
+Συντήρηση Κλιματιστικών,0.4 AC Maintenence
+Ηλεκτρολογικές Υπηρεσίες,0.5 AC Electrical installation
+Ηλεκτρολογική Εγκατάσταση Κλιματιστικών,0.5 AC Electrical installation
+Εγκατάσταση Ηλιακου Θερμοσίφωνα,0.6 Sun Boiler installation
+Εγκατάσταση Ηλεκτρικού Θερμοσίφωνα,0.7 Electric Boiler installation
+Εγκατάσταση Ανεμιστήρα Οροφής,0.8 Ceiling Fan installation
+Συναρμολόγηση Ψησταριάς,0.9 Barbecue installation
+Συναρμολόγηση Ειδών Γραφείου,0.10 Office installation
+Συναρμολόγηση Οργάνων Γυμναστικής,0.11 Fitness installation
+Υπηρεσίες ταυτόχρονα με την παράδοση,other
+B2B  BG Υπηρεσίες,0.2 BG installation
+BG OEM CERTIFICATION,0.2 BG installation
+Calpak Certification,other
+MDA OEM CERTIFICATION,other
+Premium Υπηρεσίες Tech@home,0.2 BG installation
+Techs on Call,other
+Επισκευές Κλιματισμού,0.4 AC Maintenence
+Επισκευές Λευκών,other
+Επισκευές Μαύρων,other
+Υδραυλικές Υπηρεσίες,other
+Υπηρεσία Αλλαγής φοράς πόρτας,0.1 MDA installation
+Υπηρεσίες Golden van,0.2 BG installation
+Εγκατάσταση Κλιματιστικών με την παραδοση GR,other
+Αυτοψία Ηλιακού θερμοσίφωνα,1.7 Sun_boiler_Inspection
+Home Consultation,1.9 Home_consultation
+Υπηρεσίες Drones,2.0 Drones
+Έπιπλα Κουζίνας,1.8 Kichen_Furniture
+ΕΠΙΜΕΤΡΗΣΗ ΕΠΙΠΛΩΝ ΚΟΥΖΙΝΑΣ,1.8 Kichen_Furniture
+ΜΕΛΕΤΗ ΧΩΡΟΥ ΕΠΙΠΛΩΝ ΚΟΥΖΙΝΑΣ,1.8 Kichen_Furniture
+ΣΥΝΤΗΡΗΣΕΙΣ ΑΠΟΛΥΜΑΝΣΕΙΣ ΑΦΥΓΡΑΝΤΗΡΑ,2.2 DH Maintenence
+Υπηρεσίες Starlink,2.3 Starlink
+B2B  BG Υπηρεσίες,2.4 B2B
+Εγκατάσταση φωτοβολταικού συστήματος,2.1 PV

@@ -1,0 +1,3270 @@
+zone,area,service_group,weekday,available_inst_sch_zone
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.1 MDA installation,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.1 MDA installation,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.1 MDA installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.1 MDA installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.1 MDA installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.1 MDA installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Δευτέρα,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Δευτέρα,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.1 MDA installation,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.1 MDA installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.1 MDA installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.1 MDA installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.1 MDA installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.1 MDA installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.1 MDA installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.1 MDA installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.1 MDA installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.1 MDA installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.1 MDA installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.1 MDA installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.1 MDA installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.1 MDA installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.1 MDA installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.1 MDA installation,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Παρασκευή,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,0.1 MDA installation,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.1 MDA installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.1 MDA installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.1 MDA installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.1 MDA installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.1 MDA installation,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.1 MDA installation,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,0.1 MDA installation,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.1 MDA installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.1 MDA installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.1 MDA installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.1 MDA installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.1 MDA installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.1 MDA installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.1 MDA installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.1 MDA installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.1 MDA installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.1 MDA installation,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Πέμπτη,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,0.1 MDA installation,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.1 MDA installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.1 MDA installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.1 MDA installation,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Σάββατο,1
+121.1,ΡΕΘΥΜΝΟ 2,0.1 MDA installation,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.1 MDA installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.1 MDA installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.1 MDA installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.1 MDA installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.1 MDA installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.1 MDA installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.1 MDA installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Σάββατο,1
+80.0,ΑΧΑΙΑΣ 1,0.1 MDA installation,Σάββατο,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Σάββατο,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Σάββατο,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Σάββατο,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Σάββατο,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Σάββατο,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Σάββατο,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Σάββατο,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.1 MDA installation,Σάββατο,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Σάββατο,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.1 MDA installation,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.1 MDA installation,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.1 MDA installation,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.1 MDA installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.1 MDA installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.1 MDA installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.1 MDA installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.1 MDA installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.1 MDA installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.1 MDA installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.1 MDA installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.1 MDA installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.1 MDA installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.1 MDA installation,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,0.1 MDA installation,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Τετάρτη,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.1 MDA installation,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.1 MDA installation,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.1 MDA installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.1 MDA installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.1 MDA installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.1 MDA installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.1 MDA installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.1 MDA installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.1 MDA installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.1 MDA installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.1 MDA installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.1 MDA installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.1 MDA installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.1 MDA installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.1 MDA installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.1 MDA installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.1 MDA installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.1 MDA installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.1 MDA installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.1 MDA installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.1 MDA installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.1 MDA installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.1 MDA installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.1 MDA installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.1 MDA installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.1 MDA installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.1 MDA installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.1 MDA installation,Τρίτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.1 MDA installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.1 MDA installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.1 MDA installation,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,0.1 MDA installation,Τρίτη,1
+80.2,ΑΧΑΙΑΣ 3,0.1 MDA installation,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.1 MDA installation,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.1 MDA installation,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.1 MDA installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.1 MDA installation,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.1 MDA installation,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.1 MDA installation,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.1 MDA installation,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.1 MDA installation,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.1 MDA installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.2 BG installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.2 BG installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.2 BG installation,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,0.2 BG installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.2 BG installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.2 BG installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Δευτέρα,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Δευτέρα,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.2 BG installation,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.2 BG installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.2 BG installation,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,0.2 BG installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.2 BG installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.2 BG installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.2 BG installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.2 BG installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.2 BG installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.2 BG installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.2 BG installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.2 BG installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.2 BG installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.2 BG installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.2 BG installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.2 BG installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.2 BG installation,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Παρασκευή,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.2 BG installation,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.2 BG installation,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.2 BG installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.2 BG installation,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,0.2 BG installation,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.2 BG installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.2 BG installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.2 BG installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.2 BG installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.2 BG installation,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.2 BG installation,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,0.2 BG installation,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.2 BG installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.2 BG installation,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,0.2 BG installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.2 BG installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.2 BG installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.2 BG installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.2 BG installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.2 BG installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.2 BG installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.2 BG installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.2 BG installation,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Πέμπτη,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.2 BG installation,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.2 BG installation,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.2 BG installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.2 BG installation,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,0.2 BG installation,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.2 BG installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.2 BG installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.2 BG installation,Σάββατο,1
+121.1,ΡΕΘΥΜΝΟ 2,0.2 BG installation,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.2 BG installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.2 BG installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.2 BG installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.2 BG installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.2 BG installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.2 BG installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.2 BG installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Σάββατο,1
+80.0,ΑΧΑΙΑΣ 1,0.2 BG installation,Σάββατο,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Σάββατο,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Σάββατο,1
+80.3,ΠΑΤΡΑΣ 1,0.2 BG installation,Σάββατο,1
+80.4,ΠΑΤΡΑΣ 2,0.2 BG installation,Σάββατο,1
+80.5,ΠΑΤΡΑΣ 3,0.2 BG installation,Σάββατο,1
+80.6,ΑΧΑΙΑΣ 4,0.2 BG installation,Σάββατο,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Σάββατο,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.2 BG installation,Σάββατο,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Σάββατο,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.2 BG installation,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.2 BG installation,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.2 BG installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.2 BG installation,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,0.2 BG installation,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,0.2 BG installation,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,0.2 BG installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.2 BG installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.2 BG installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.2 BG installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.2 BG installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.2 BG installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.2 BG installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.2 BG installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.2 BG installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.2 BG installation,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,0.2 BG installation,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Τετάρτη,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.2 BG installation,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.2 BG installation,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.2 BG installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.2 BG installation,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.2 BG installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.2 BG installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.2 BG installation,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,0.2 BG installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.2 BG installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.2 BG installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.2 BG installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.2 BG installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.2 BG installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.2 BG installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.2 BG installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.2 BG installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.2 BG installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.2 BG installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.2 BG installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.2 BG installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.2 BG installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.2 BG installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.2 BG installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.2 BG installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.2 BG installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.2 BG installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.2 BG installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.2 BG installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.2 BG installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.2 BG installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.2 BG installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.2 BG installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.2 BG installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.2 BG installation,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,0.2 BG installation,Τρίτη,1
+80.2,ΑΧΑΙΑΣ 3,0.2 BG installation,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.2 BG installation,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.2 BG installation,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.2 BG installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.2 BG installation,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.2 BG installation,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.2 BG installation,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.2 BG installation,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.2 BG installation,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.2 BG installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.3 AC installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.3 AC installation,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.3 AC installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.3 AC installation,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,0.3 AC installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.3 AC installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.3 AC installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.3 AC installation,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.3 AC installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.3 AC installation,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,0.3 AC installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.3 AC installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.3 AC installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.3 AC installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.3 AC installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.3 AC installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.3 AC installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.3 AC installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.3 AC installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.3 AC installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.3 AC installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.3 AC installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.3 AC installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.3 AC installation,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,0.3 AC installation,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.3 AC installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.3 AC installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.3 AC installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.3 AC installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.3 AC installation,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.3 AC installation,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,0.3 AC installation,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.3 AC installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.3 AC installation,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,0.3 AC installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.3 AC installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.3 AC installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.3 AC installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.3 AC installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.3 AC installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.3 AC installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.3 AC installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.3 AC installation,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,0.3 AC installation,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.3 AC installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.3 AC installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.3 AC installation,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Σάββατο,1
+121.1,ΡΕΘΥΜΝΟ 2,0.3 AC installation,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.3 AC installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.3 AC installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.3 AC installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.3 AC installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.3 AC installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.3 AC installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.3 AC installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Σάββατο,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Σάββατο,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Σάββατο,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Σάββατο,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Σάββατο,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Σάββατο,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.3 AC installation,Σάββατο,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Σάββατο,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.3 AC installation,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.3 AC installation,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.3 AC installation,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.3 AC installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.3 AC installation,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,0.3 AC installation,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,0.3 AC installation,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,0.3 AC installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.3 AC installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.3 AC installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.3 AC installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.3 AC installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.3 AC installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.3 AC installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.3 AC installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.3 AC installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.3 AC installation,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.3 AC installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.3 AC installation,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.3 AC installation,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.3 AC installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.3 AC installation,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,0.3 AC installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.3 AC installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.3 AC installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.3 AC installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.3 AC installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.3 AC installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.3 AC installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.3 AC installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.3 AC installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.3 AC installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.3 AC installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.3 AC installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.3 AC installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.3 AC installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.3 AC installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.3 AC installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.3 AC installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.3 AC installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.3 AC installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.3 AC installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.3 AC installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.3 AC installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.3 AC installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.3 AC installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.3 AC installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.3 AC installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.3 AC installation,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.3 AC installation,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.3 AC installation,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.3 AC installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.3 AC installation,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.3 AC installation,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.3 AC installation,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.3 AC installation,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.3 AC installation,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.3 AC installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.4 AC Maintenence,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.4 AC Maintenence,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.4 AC Maintenence,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.4 AC Maintenence,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,0.4 AC Maintenence,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.4 AC Maintenence,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.4 AC Maintenence,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.4 AC Maintenence,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.4 AC Maintenence,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.4 AC Maintenence,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,0.4 AC Maintenence,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.4 AC Maintenence,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.4 AC Maintenence,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.4 AC Maintenence,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.4 AC Maintenence,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.4 AC Maintenence,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.4 AC Maintenence,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.4 AC Maintenence,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.4 AC Maintenence,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.4 AC Maintenence,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.4 AC Maintenence,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.4 AC Maintenence,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.4 AC Maintenence,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.4 AC Maintenence,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,0.4 AC Maintenence,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.4 AC Maintenence,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.4 AC Maintenence,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.4 AC Maintenence,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.4 AC Maintenence,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.4 AC Maintenence,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.4 AC Maintenence,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,0.4 AC Maintenence,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.4 AC Maintenence,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.4 AC Maintenence,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,0.4 AC Maintenence,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.4 AC Maintenence,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.4 AC Maintenence,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.4 AC Maintenence,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.4 AC Maintenence,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.4 AC Maintenence,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.4 AC Maintenence,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.4 AC Maintenence,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.4 AC Maintenence,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,0.4 AC Maintenence,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.4 AC Maintenence,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.4 AC Maintenence,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.4 AC Maintenence,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Σάββατο,1
+121.1,ΡΕΘΥΜΝΟ 2,0.4 AC Maintenence,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.4 AC Maintenence,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.4 AC Maintenence,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.4 AC Maintenence,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.4 AC Maintenence,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.4 AC Maintenence,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.4 AC Maintenence,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.4 AC Maintenence,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Σάββατο,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Σάββατο,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Σάββατο,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Σάββατο,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Σάββατο,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Σάββατο,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.4 AC Maintenence,Σάββατο,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Σάββατο,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.4 AC Maintenence,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.4 AC Maintenence,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.4 AC Maintenence,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.4 AC Maintenence,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.4 AC Maintenence,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,0.4 AC Maintenence,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,0.4 AC Maintenence,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,0.4 AC Maintenence,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.4 AC Maintenence,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.4 AC Maintenence,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.4 AC Maintenence,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.4 AC Maintenence,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.4 AC Maintenence,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.4 AC Maintenence,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.4 AC Maintenence,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.4 AC Maintenence,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.4 AC Maintenence,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.4 AC Maintenence,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.4 AC Maintenence,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.4 AC Maintenence,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.4 AC Maintenence,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.4 AC Maintenence,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,0.4 AC Maintenence,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.4 AC Maintenence,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.4 AC Maintenence,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.4 AC Maintenence,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.4 AC Maintenence,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.4 AC Maintenence,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.4 AC Maintenence,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.4 AC Maintenence,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.4 AC Maintenence,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.4 AC Maintenence,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.4 AC Maintenence,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.4 AC Maintenence,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.4 AC Maintenence,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.4 AC Maintenence,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.4 AC Maintenence,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.4 AC Maintenence,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.4 AC Maintenence,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.4 AC Maintenence,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.4 AC Maintenence,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.4 AC Maintenence,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.4 AC Maintenence,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.4 AC Maintenence,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.4 AC Maintenence,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.4 AC Maintenence,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.4 AC Maintenence,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.4 AC Maintenence,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.4 AC Maintenence,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.4 AC Maintenence,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.4 AC Maintenence,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.4 AC Maintenence,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.4 AC Maintenence,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,0.4 AC Maintenence,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,0.4 AC Maintenence,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,0.4 AC Maintenence,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,0.4 AC Maintenence,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.4 AC Maintenence,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.5 AC Electrical installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.5 AC Electrical installation,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.5 AC Electrical installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.5 AC Electrical installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.5 AC Electrical installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.5 AC Electrical installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.5 AC Electrical installation,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.5 AC Electrical installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.5 AC Electrical installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.5 AC Electrical installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.5 AC Electrical installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.5 AC Electrical installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.5 AC Electrical installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.5 AC Electrical installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.5 AC Electrical installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.5 AC Electrical installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.5 AC Electrical installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.5 AC Electrical installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.5 AC Electrical installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.5 AC Electrical installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.5 AC Electrical installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.5 AC Electrical installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.5 AC Electrical installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.5 AC Electrical installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.5 AC Electrical installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.5 AC Electrical installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.5 AC Electrical installation,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.5 AC Electrical installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.5 AC Electrical installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.5 AC Electrical installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.5 AC Electrical installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.5 AC Electrical installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.5 AC Electrical installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.5 AC Electrical installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.5 AC Electrical installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.5 AC Electrical installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.5 AC Electrical installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.5 AC Electrical installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.5 AC Electrical installation,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.5 AC Electrical installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.5 AC Electrical installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.5 AC Electrical installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.5 AC Electrical installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.5 AC Electrical installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.5 AC Electrical installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.5 AC Electrical installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.5 AC Electrical installation,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.5 AC Electrical installation,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.5 AC Electrical installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.5 AC Electrical installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.5 AC Electrical installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.5 AC Electrical installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.5 AC Electrical installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.5 AC Electrical installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.5 AC Electrical installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.5 AC Electrical installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.5 AC Electrical installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.5 AC Electrical installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.5 AC Electrical installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.5 AC Electrical installation,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.5 AC Electrical installation,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.5 AC Electrical installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.5 AC Electrical installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.5 AC Electrical installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.5 AC Electrical installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.5 AC Electrical installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.5 AC Electrical installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.5 AC Electrical installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.5 AC Electrical installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.5 AC Electrical installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.5 AC Electrical installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.5 AC Electrical installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.5 AC Electrical installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.5 AC Electrical installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.5 AC Electrical installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.5 AC Electrical installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.5 AC Electrical installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.5 AC Electrical installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.5 AC Electrical installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.5 AC Electrical installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.5 AC Electrical installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.5 AC Electrical installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.5 AC Electrical installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.5 AC Electrical installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.5 AC Electrical installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.5 AC Electrical installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.5 AC Electrical installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.5 AC Electrical installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.5 AC Electrical installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.6 Sun Boiler installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.6 Sun Boiler installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.6 Sun Boiler installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.6 Sun Boiler installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.6 Sun Boiler installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.6 Sun Boiler installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.6 Sun Boiler installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.6 Sun Boiler installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.6 Sun Boiler installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.6 Sun Boiler installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.6 Sun Boiler installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.6 Sun Boiler installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.6 Sun Boiler installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.6 Sun Boiler installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.6 Sun Boiler installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.6 Sun Boiler installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.6 Sun Boiler installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.6 Sun Boiler installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.6 Sun Boiler installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.6 Sun Boiler installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.6 Sun Boiler installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.6 Sun Boiler installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.6 Sun Boiler installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.6 Sun Boiler installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.6 Sun Boiler installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.6 Sun Boiler installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.6 Sun Boiler installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.6 Sun Boiler installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.6 Sun Boiler installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.6 Sun Boiler installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.6 Sun Boiler installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.6 Sun Boiler installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.6 Sun Boiler installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.6 Sun Boiler installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.6 Sun Boiler installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.6 Sun Boiler installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.6 Sun Boiler installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.6 Sun Boiler installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.6 Sun Boiler installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.6 Sun Boiler installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.6 Sun Boiler installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.6 Sun Boiler installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.6 Sun Boiler installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.6 Sun Boiler installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.6 Sun Boiler installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.6 Sun Boiler installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.6 Sun Boiler installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.6 Sun Boiler installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.6 Sun Boiler installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.6 Sun Boiler installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.6 Sun Boiler installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.6 Sun Boiler installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.6 Sun Boiler installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.6 Sun Boiler installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.6 Sun Boiler installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.6 Sun Boiler installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.6 Sun Boiler installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.6 Sun Boiler installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.6 Sun Boiler installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.6 Sun Boiler installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.6 Sun Boiler installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.6 Sun Boiler installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.6 Sun Boiler installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.6 Sun Boiler installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.6 Sun Boiler installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.6 Sun Boiler installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.6 Sun Boiler installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.6 Sun Boiler installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.6 Sun Boiler installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.6 Sun Boiler installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.6 Sun Boiler installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.7 Electric Boiler installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.7 Electric Boiler installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.7 Electric Boiler installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.7 Electric Boiler installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.7 Electric Boiler installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.7 Electric Boiler installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.7 Electric Boiler installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.7 Electric Boiler installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.7 Electric Boiler installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.7 Electric Boiler installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.7 Electric Boiler installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.7 Electric Boiler installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.7 Electric Boiler installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.7 Electric Boiler installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.7 Electric Boiler installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.7 Electric Boiler installation,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.7 Electric Boiler installation,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.7 Electric Boiler installation,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.7 Electric Boiler installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.7 Electric Boiler installation,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.7 Electric Boiler installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.7 Electric Boiler installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.7 Electric Boiler installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.7 Electric Boiler installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.7 Electric Boiler installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.7 Electric Boiler installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.7 Electric Boiler installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.7 Electric Boiler installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.7 Electric Boiler installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.7 Electric Boiler installation,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.7 Electric Boiler installation,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.7 Electric Boiler installation,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.7 Electric Boiler installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.7 Electric Boiler installation,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.7 Electric Boiler installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.7 Electric Boiler installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.7 Electric Boiler installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.7 Electric Boiler installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.7 Electric Boiler installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.7 Electric Boiler installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.7 Electric Boiler installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.7 Electric Boiler installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.7 Electric Boiler installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.7 Electric Boiler installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.7 Electric Boiler installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.7 Electric Boiler installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.7 Electric Boiler installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.7 Electric Boiler installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.7 Electric Boiler installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.7 Electric Boiler installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.7 Electric Boiler installation,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,0.7 Electric Boiler installation,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,0.7 Electric Boiler installation,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.7 Electric Boiler installation,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.7 Electric Boiler installation,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.7 Electric Boiler installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.7 Electric Boiler installation,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.7 Electric Boiler installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.7 Electric Boiler installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.7 Electric Boiler installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.7 Electric Boiler installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.7 Electric Boiler installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.7 Electric Boiler installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.7 Electric Boiler installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.7 Electric Boiler installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.7 Electric Boiler installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.7 Electric Boiler installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.7 Electric Boiler installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.7 Electric Boiler installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.7 Electric Boiler installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.7 Electric Boiler installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.7 Electric Boiler installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.7 Electric Boiler installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.7 Electric Boiler installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.7 Electric Boiler installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.7 Electric Boiler installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.7 Electric Boiler installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.7 Electric Boiler installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.7 Electric Boiler installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.7 Electric Boiler installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.7 Electric Boiler installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.7 Electric Boiler installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.7 Electric Boiler installation,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.7 Electric Boiler installation,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.7 Electric Boiler installation,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.7 Electric Boiler installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.7 Electric Boiler installation,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.7 Electric Boiler installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.8 Ceiling Fan installation,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.8 Ceiling Fan installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Κυριακή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Κυριακή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.8 Ceiling Fan installation,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.8 Ceiling Fan installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.8 Ceiling Fan installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.8 Ceiling Fan installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.8 Ceiling Fan installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.8 Ceiling Fan installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.8 Ceiling Fan installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.8 Ceiling Fan installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.8 Ceiling Fan installation,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,0.8 Ceiling Fan installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.8 Ceiling Fan installation,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.8 Ceiling Fan installation,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.8 Ceiling Fan installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.8 Ceiling Fan installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.8 Ceiling Fan installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.8 Ceiling Fan installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.8 Ceiling Fan installation,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,0.8 Ceiling Fan installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.8 Ceiling Fan installation,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.8 Ceiling Fan installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.8 Ceiling Fan installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.8 Ceiling Fan installation,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.8 Ceiling Fan installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.8 Ceiling Fan installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.8 Ceiling Fan installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.8 Ceiling Fan installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.8 Ceiling Fan installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.8 Ceiling Fan installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Σάββατο,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Σάββατο,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Σάββατο,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.8 Ceiling Fan installation,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.8 Ceiling Fan installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.8 Ceiling Fan installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.8 Ceiling Fan installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.8 Ceiling Fan installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.8 Ceiling Fan installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.8 Ceiling Fan installation,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,0.8 Ceiling Fan installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.8 Ceiling Fan installation,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.8 Ceiling Fan installation,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.8 Ceiling Fan installation,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.8 Ceiling Fan installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.8 Ceiling Fan installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.8 Ceiling Fan installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.8 Ceiling Fan installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.8 Ceiling Fan installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.8 Ceiling Fan installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.8 Ceiling Fan installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.8 Ceiling Fan installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.8 Ceiling Fan installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.8 Ceiling Fan installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.8 Ceiling Fan installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.8 Ceiling Fan installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.8 Ceiling Fan installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.8 Ceiling Fan installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.8 Ceiling Fan installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.8 Ceiling Fan installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.8 Ceiling Fan installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.8 Ceiling Fan installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.8 Ceiling Fan installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.8 Ceiling Fan installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.8 Ceiling Fan installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.8 Ceiling Fan installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.8 Ceiling Fan installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.8 Ceiling Fan installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.8 Ceiling Fan installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.8 Ceiling Fan installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.8 Ceiling Fan installation,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,0.8 Ceiling Fan installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.8 Ceiling Fan installation,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,0.8 Ceiling Fan installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.9 Barbecue installation,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.9 Barbecue installation,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,0.9 Barbecue installation,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,0.9 Barbecue installation,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,0.9 Barbecue installation,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Δευτέρα,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,0.9 Barbecue installation,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Δευτέρα,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Δευτέρα,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,0.9 Barbecue installation,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,0.9 Barbecue installation,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,0.9 Barbecue installation,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.9 Barbecue installation,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.9 Barbecue installation,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.9 Barbecue installation,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,0.9 Barbecue installation,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,0.9 Barbecue installation,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,0.9 Barbecue installation,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.9 Barbecue installation,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.9 Barbecue installation,Παρασκευή,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Παρασκευή,1
+4.2,ΘΑΣΟΣ,0.9 Barbecue installation,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.9 Barbecue installation,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Παρασκευή,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Παρασκευή,1
+43.1,ΠΗΛΙΟ,0.9 Barbecue installation,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,0.9 Barbecue installation,Παρασκευή,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.9 Barbecue installation,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,0.9 Barbecue installation,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,0.9 Barbecue installation,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,0.9 Barbecue installation,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,0.9 Barbecue installation,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,0.9 Barbecue installation,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,0.9 Barbecue installation,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,0.9 Barbecue installation,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.9 Barbecue installation,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,0.9 Barbecue installation,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,0.9 Barbecue installation,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.9 Barbecue installation,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,0.9 Barbecue installation,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,0.9 Barbecue installation,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,0.9 Barbecue installation,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,0.9 Barbecue installation,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,0.9 Barbecue installation,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,0.9 Barbecue installation,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,0.9 Barbecue installation,Πέμπτη,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.9 Barbecue installation,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,0.9 Barbecue installation,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,0.9 Barbecue installation,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Πέμπτη,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Πέμπτη,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.9 Barbecue installation,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,0.9 Barbecue installation,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,0.9 Barbecue installation,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,0.9 Barbecue installation,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,0.9 Barbecue installation,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,0.9 Barbecue installation,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Σάββατο,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Σάββατο,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.9 Barbecue installation,Σάββατο,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,0.9 Barbecue installation,Σάββατο,1
+120.4,ΗΡΑΚΛΕΙΟ 5,0.9 Barbecue installation,Σάββατο,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Σάββατο,1
+121.0,ΡΕΘΥΜΝΟ 1,0.9 Barbecue installation,Σάββατο,1
+121.1,ΡΕΘΥΜΝΟ 2,0.9 Barbecue installation,Σάββατο,1
+122.1,ΧΑΝΙΑ 2,0.9 Barbecue installation,Σάββατο,1
+122.2,ΧΑΝΙΑ 3,0.9 Barbecue installation,Σάββατο,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Σάββατο,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Σάββατο,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Σάββατο,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.9 Barbecue installation,Σάββατο,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Σάββατο,1
+2.2,ΑΡΡΙΑΝΩΝ,0.9 Barbecue installation,Σάββατο,1
+2.4,ΑΡΡΙΑΝΩΝ,0.9 Barbecue installation,Σάββατο,1
+20.0,ΑΜΥΝΤΑΙΟ,0.9 Barbecue installation,Σάββατο,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Σάββατο,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Σάββατο,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Σάββατο,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Σάββατο,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Σάββατο,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Σάββατο,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Σάββατο,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Σάββατο,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Σάββατο,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.9 Barbecue installation,Σάββατο,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Σάββατο,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Σάββατο,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Σάββατο,1
+80.3,ΠΑΤΡΑΣ 1,0.9 Barbecue installation,Σάββατο,1
+80.4,ΠΑΤΡΑΣ 2,0.9 Barbecue installation,Σάββατο,1
+80.5,ΠΑΤΡΑΣ 3,0.9 Barbecue installation,Σάββατο,1
+80.6,ΑΧΑΙΑΣ 4,0.9 Barbecue installation,Σάββατο,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,0.9 Barbecue installation,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,0.9 Barbecue installation,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,0.9 Barbecue installation,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,0.9 Barbecue installation,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.9 Barbecue installation,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,0.9 Barbecue installation,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,0.9 Barbecue installation,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,0.9 Barbecue installation,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,0.9 Barbecue installation,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,0.9 Barbecue installation,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,0.9 Barbecue installation,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Τετάρτη,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,0.9 Barbecue installation,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Τετάρτη,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Τετάρτη,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,0.9 Barbecue installation,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,0.9 Barbecue installation,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,0.9 Barbecue installation,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,0.9 Barbecue installation,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,0.9 Barbecue installation,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,0.9 Barbecue installation,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,0.9 Barbecue installation,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,0.9 Barbecue installation,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,0.9 Barbecue installation,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,0.9 Barbecue installation,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,0.9 Barbecue installation,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,0.9 Barbecue installation,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,0.9 Barbecue installation,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,0.9 Barbecue installation,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,0.9 Barbecue installation,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,0.9 Barbecue installation,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,0.9 Barbecue installation,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,0.9 Barbecue installation,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,0.9 Barbecue installation,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,0.9 Barbecue installation,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,0.9 Barbecue installation,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,0.9 Barbecue installation,Τρίτη,1
+3.0,ΞΑΝΘΗ,0.9 Barbecue installation,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,0.9 Barbecue installation,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,0.9 Barbecue installation,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,0.9 Barbecue installation,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,0.9 Barbecue installation,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,0.9 Barbecue installation,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,0.9 Barbecue installation,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,0.9 Barbecue installation,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,0.9 Barbecue installation,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,0.9 Barbecue installation,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,0.9 Barbecue installation,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,0.9 Barbecue installation,Τρίτη,1
+43.0,ΒΟΛΟΣ,0.9 Barbecue installation,Τρίτη,1
+43.1,ΠΗΛΙΟ,0.9 Barbecue installation,Τρίτη,1
+5.0,ΔΡΑΜΑ,0.9 Barbecue installation,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,0.9 Barbecue installation,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,0.9 Barbecue installation,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,0.9 Barbecue installation,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,0.9 Barbecue installation,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,0.9 Barbecue installation,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,0.9 Barbecue installation,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.0 Drones,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.0 Drones,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.0 Drones,Δευτέρα,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.0 Drones,Δευτέρα,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.0 Drones,Δευτέρα,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.0 Drones,Δευτέρα,1
+11.0,ΚΙΛΚΙΣ,2.0 Drones,Δευτέρα,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.0 Drones,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.0 Drones,Δευτέρα,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.0 Drones,Δευτέρα,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.0 Drones,Δευτέρα,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.0 Drones,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.0 Drones,Δευτέρα,1
+121.0,ΡΕΘΥΜΝΟ 1,2.0 Drones,Δευτέρα,1
+121.1,ΡΕΘΥΜΝΟ 2,2.0 Drones,Δευτέρα,1
+122.0,ΧΑΝΙΑ 1,2.0 Drones,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,2.0 Drones,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,2.0 Drones,Δευτέρα,1
+123.0,ΛΑΣΙΘΗ 1,2.0 Drones,Δευτέρα,1
+123.1,ΛΑΣΙΘΗ 2,2.0 Drones,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,2.0 Drones,Δευτέρα,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.0 Drones,Δευτέρα,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.0 Drones,Δευτέρα,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.0 Drones,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.0 Drones,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,2.0 Drones,Δευτέρα,1
+15.1,ΝΑΟΥΣΑ,2.0 Drones,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,2.0 Drones,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,2.0 Drones,Δευτέρα,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.0 Drones,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.0 Drones,Δευτέρα,1
+2.1,ΙΑΣΜΟΥ,2.0 Drones,Δευτέρα,1
+2.2,ΑΡΡΙΑΝΩΝ,2.0 Drones,Δευτέρα,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.0 Drones,Δευτέρα,1
+2.4,ΑΡΡΙΑΝΩΝ,2.0 Drones,Δευτέρα,1
+20.0,ΑΜΥΝΤΑΙΟ,2.0 Drones,Δευτέρα,1
+21.0,ΚΑΣΤΟΡΙΑ,2.0 Drones,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,2.0 Drones,Δευτέρα,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.0 Drones,Δευτέρα,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.0 Drones,Δευτέρα,1
+23.0,ΓΡΕΒΕΝΑ,2.0 Drones,Δευτέρα,1
+3.0,ΞΑΝΘΗ,2.0 Drones,Δευτέρα,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.0 Drones,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,2.0 Drones,Δευτέρα,1
+4.1,ΟΦΡΥΝΙΟ,2.0 Drones,Δευτέρα,1
+4.2,ΘΑΣΟΣ,2.0 Drones,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,2.0 Drones,Δευτέρα,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.0 Drones,Δευτέρα,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.0 Drones,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,2.0 Drones,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,2.0 Drones,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,2.0 Drones,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.0 Drones,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,2.0 Drones,Δευτέρα,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.0 Drones,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.0 Drones,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,2.0 Drones,Δευτέρα,1
+43.0,ΒΟΛΟΣ,2.0 Drones,Δευτέρα,1
+43.1,ΠΗΛΙΟ,2.0 Drones,Δευτέρα,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.0 Drones,Δευτέρα,1
+5.0,ΔΡΑΜΑ,2.0 Drones,Δευτέρα,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.0 Drones,Δευτέρα,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.0 Drones,Δευτέρα,1
+80.0,ΑΧΑΙΑΣ 1,2.0 Drones,Δευτέρα,1
+80.1,ΑΧΑΙΑΣ 2,2.0 Drones,Δευτέρα,1
+80.2,ΑΧΑΙΑΣ 3,2.0 Drones,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,2.0 Drones,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,2.0 Drones,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,2.0 Drones,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,2.0 Drones,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.0 Drones,Δευτέρα,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.0 Drones,Δευτέρα,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.0 Drones,Δευτέρα,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.0 Drones,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.0 Drones,Δευτέρα,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.0 Drones,Δευτέρα,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.0 Drones,Παρασκευή,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.0 Drones,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.0 Drones,Παρασκευή,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.0 Drones,Παρασκευή,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.0 Drones,Παρασκευή,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.0 Drones,Παρασκευή,1
+11.0,ΚΙΛΚΙΣ,2.0 Drones,Παρασκευή,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.0 Drones,Παρασκευή,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.0 Drones,Παρασκευή,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.0 Drones,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.0 Drones,Παρασκευή,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.0 Drones,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.0 Drones,Παρασκευή,1
+121.0,ΡΕΘΥΜΝΟ 1,2.0 Drones,Παρασκευή,1
+121.1,ΡΕΘΥΜΝΟ 2,2.0 Drones,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,2.0 Drones,Παρασκευή,1
+122.1,ΧΑΝΙΑ 2,2.0 Drones,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,2.0 Drones,Παρασκευή,1
+123.0,ΛΑΣΙΘΗ 1,2.0 Drones,Παρασκευή,1
+123.1,ΛΑΣΙΘΗ 2,2.0 Drones,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,2.0 Drones,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.0 Drones,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.0 Drones,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.0 Drones,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.0 Drones,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,2.0 Drones,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,2.0 Drones,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,2.0 Drones,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,2.0 Drones,Παρασκευή,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.0 Drones,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.0 Drones,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,2.0 Drones,Παρασκευή,1
+2.2,ΑΡΡΙΑΝΩΝ,2.0 Drones,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.0 Drones,Παρασκευή,1
+2.4,ΑΡΡΙΑΝΩΝ,2.0 Drones,Παρασκευή,1
+20.0,ΑΜΥΝΤΑΙΟ,2.0 Drones,Παρασκευή,1
+21.0,ΚΑΣΤΟΡΙΑ,2.0 Drones,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,2.0 Drones,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.0 Drones,Παρασκευή,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.0 Drones,Παρασκευή,1
+23.0,ΓΡΕΒΕΝΑ,2.0 Drones,Παρασκευή,1
+3.0,ΞΑΝΘΗ,2.0 Drones,Παρασκευή,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.0 Drones,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,2.0 Drones,Παρασκευή,1
+4.1,ΟΦΡΥΝΙΟ,2.0 Drones,Παρασκευή,1
+4.2,ΘΑΣΟΣ,2.0 Drones,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,2.0 Drones,Παρασκευή,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.0 Drones,Παρασκευή,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.0 Drones,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,2.0 Drones,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,2.0 Drones,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,2.0 Drones,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.0 Drones,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,2.0 Drones,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.0 Drones,Παρασκευή,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.0 Drones,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,2.0 Drones,Παρασκευή,1
+43.0,ΒΟΛΟΣ,2.0 Drones,Παρασκευή,1
+43.1,ΠΗΛΙΟ,2.0 Drones,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.0 Drones,Παρασκευή,1
+5.0,ΔΡΑΜΑ,2.0 Drones,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.0 Drones,Παρασκευή,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.0 Drones,Παρασκευή,1
+80.0,ΑΧΑΙΑΣ 1,2.0 Drones,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,2.0 Drones,Παρασκευή,1
+80.2,ΑΧΑΙΑΣ 3,2.0 Drones,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,2.0 Drones,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,2.0 Drones,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,2.0 Drones,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,2.0 Drones,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.0 Drones,Παρασκευή,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.0 Drones,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.0 Drones,Παρασκευή,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.0 Drones,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.0 Drones,Παρασκευή,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.0 Drones,Παρασκευή,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.0 Drones,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.0 Drones,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.0 Drones,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.0 Drones,Πέμπτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.0 Drones,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.0 Drones,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,2.0 Drones,Πέμπτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.0 Drones,Πέμπτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.0 Drones,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.0 Drones,Πέμπτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.0 Drones,Πέμπτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.0 Drones,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.0 Drones,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.0 Drones,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.0 Drones,Πέμπτη,1
+122.0,ΧΑΝΙΑ 1,2.0 Drones,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,2.0 Drones,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,2.0 Drones,Πέμπτη,1
+123.0,ΛΑΣΙΘΗ 1,2.0 Drones,Πέμπτη,1
+123.1,ΛΑΣΙΘΗ 2,2.0 Drones,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,2.0 Drones,Πέμπτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.0 Drones,Πέμπτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.0 Drones,Πέμπτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.0 Drones,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.0 Drones,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,2.0 Drones,Πέμπτη,1
+15.1,ΝΑΟΥΣΑ,2.0 Drones,Πέμπτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.0 Drones,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.0 Drones,Πέμπτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.0 Drones,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.0 Drones,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,2.0 Drones,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.0 Drones,Πέμπτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.0 Drones,Πέμπτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.0 Drones,Πέμπτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.0 Drones,Πέμπτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.0 Drones,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,2.0 Drones,Πέμπτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.0 Drones,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.0 Drones,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,2.0 Drones,Πέμπτη,1
+3.0,ΞΑΝΘΗ,2.0 Drones,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.0 Drones,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,2.0 Drones,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,2.0 Drones,Πέμπτη,1
+4.2,ΘΑΣΟΣ,2.0 Drones,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,2.0 Drones,Πέμπτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.0 Drones,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.0 Drones,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.0 Drones,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,2.0 Drones,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,2.0 Drones,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.0 Drones,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,2.0 Drones,Πέμπτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.0 Drones,Πέμπτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.0 Drones,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.0 Drones,Πέμπτη,1
+43.0,ΒΟΛΟΣ,2.0 Drones,Πέμπτη,1
+43.1,ΠΗΛΙΟ,2.0 Drones,Πέμπτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.0 Drones,Πέμπτη,1
+5.0,ΔΡΑΜΑ,2.0 Drones,Πέμπτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.0 Drones,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.0 Drones,Πέμπτη,1
+80.0,ΑΧΑΙΑΣ 1,2.0 Drones,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,2.0 Drones,Πέμπτη,1
+80.2,ΑΧΑΙΑΣ 3,2.0 Drones,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,2.0 Drones,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,2.0 Drones,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,2.0 Drones,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,2.0 Drones,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.0 Drones,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.0 Drones,Πέμπτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.0 Drones,Πέμπτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.0 Drones,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.0 Drones,Πέμπτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.0 Drones,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.0 Drones,Τετάρτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.0 Drones,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.0 Drones,Τετάρτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.0 Drones,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.0 Drones,Τετάρτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.0 Drones,Τετάρτη,1
+11.0,ΚΙΛΚΙΣ,2.0 Drones,Τετάρτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.0 Drones,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.0 Drones,Τετάρτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.0 Drones,Τετάρτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.0 Drones,Τετάρτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.0 Drones,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.0 Drones,Τετάρτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.0 Drones,Τετάρτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.0 Drones,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,2.0 Drones,Τετάρτη,1
+122.1,ΧΑΝΙΑ 2,2.0 Drones,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,2.0 Drones,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,2.0 Drones,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,2.0 Drones,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,2.0 Drones,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.0 Drones,Τετάρτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.0 Drones,Τετάρτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.0 Drones,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.0 Drones,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,2.0 Drones,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,2.0 Drones,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.0 Drones,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.0 Drones,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.0 Drones,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.0 Drones,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,2.0 Drones,Τετάρτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.0 Drones,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.0 Drones,Τετάρτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.0 Drones,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.0 Drones,Τετάρτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.0 Drones,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,2.0 Drones,Τετάρτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.0 Drones,Τετάρτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.0 Drones,Τετάρτη,1
+23.0,ΓΡΕΒΕΝΑ,2.0 Drones,Τετάρτη,1
+3.0,ΞΑΝΘΗ,2.0 Drones,Τετάρτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.0 Drones,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,2.0 Drones,Τετάρτη,1
+4.1,ΟΦΡΥΝΙΟ,2.0 Drones,Τετάρτη,1
+4.2,ΘΑΣΟΣ,2.0 Drones,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,2.0 Drones,Τετάρτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.0 Drones,Τετάρτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.0 Drones,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.0 Drones,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,2.0 Drones,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,2.0 Drones,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.0 Drones,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,2.0 Drones,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.0 Drones,Τετάρτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.0 Drones,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.0 Drones,Τετάρτη,1
+43.0,ΒΟΛΟΣ,2.0 Drones,Τετάρτη,1
+43.1,ΠΗΛΙΟ,2.0 Drones,Τετάρτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.0 Drones,Τετάρτη,1
+5.0,ΔΡΑΜΑ,2.0 Drones,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.0 Drones,Τετάρτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.0 Drones,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,2.0 Drones,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,2.0 Drones,Τετάρτη,1
+80.2,ΑΧΑΙΑΣ 3,2.0 Drones,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,2.0 Drones,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,2.0 Drones,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,2.0 Drones,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,2.0 Drones,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.0 Drones,Τετάρτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.0 Drones,Τετάρτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.0 Drones,Τετάρτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.0 Drones,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.0 Drones,Τετάρτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.0 Drones,Τετάρτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.0 Drones,Τρίτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.0 Drones,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.0 Drones,Τρίτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.0 Drones,Τρίτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.0 Drones,Τρίτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.0 Drones,Τρίτη,1
+11.0,ΚΙΛΚΙΣ,2.0 Drones,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.0 Drones,Τρίτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.0 Drones,Τρίτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.0 Drones,Τρίτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.0 Drones,Τρίτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.0 Drones,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.0 Drones,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.0 Drones,Τρίτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.0 Drones,Τρίτη,1
+122.0,ΧΑΝΙΑ 1,2.0 Drones,Τρίτη,1
+122.1,ΧΑΝΙΑ 2,2.0 Drones,Τρίτη,1
+122.2,ΧΑΝΙΑ 3,2.0 Drones,Τρίτη,1
+123.0,ΛΑΣΙΘΗ 1,2.0 Drones,Τρίτη,1
+123.1,ΛΑΣΙΘΗ 2,2.0 Drones,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,2.0 Drones,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.0 Drones,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.0 Drones,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.0 Drones,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.0 Drones,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,2.0 Drones,Τρίτη,1
+15.1,ΝΑΟΥΣΑ,2.0 Drones,Τρίτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.0 Drones,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.0 Drones,Τρίτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.0 Drones,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.0 Drones,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,2.0 Drones,Τρίτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.0 Drones,Τρίτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.0 Drones,Τρίτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.0 Drones,Τρίτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.0 Drones,Τρίτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.0 Drones,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,2.0 Drones,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.0 Drones,Τρίτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.0 Drones,Τρίτη,1
+23.0,ΓΡΕΒΕΝΑ,2.0 Drones,Τρίτη,1
+3.0,ΞΑΝΘΗ,2.0 Drones,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.0 Drones,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,2.0 Drones,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,2.0 Drones,Τρίτη,1
+4.2,ΘΑΣΟΣ,2.0 Drones,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,2.0 Drones,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.0 Drones,Τρίτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.0 Drones,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.0 Drones,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,2.0 Drones,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,2.0 Drones,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.0 Drones,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,2.0 Drones,Τρίτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.0 Drones,Τρίτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.0 Drones,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.0 Drones,Τρίτη,1
+43.0,ΒΟΛΟΣ,2.0 Drones,Τρίτη,1
+43.1,ΠΗΛΙΟ,2.0 Drones,Τρίτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.0 Drones,Τρίτη,1
+5.0,ΔΡΑΜΑ,2.0 Drones,Τρίτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.0 Drones,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.0 Drones,Τρίτη,1
+80.0,ΑΧΑΙΑΣ 1,2.0 Drones,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,2.0 Drones,Τρίτη,1
+80.2,ΑΧΑΙΑΣ 3,2.0 Drones,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,2.0 Drones,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,2.0 Drones,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,2.0 Drones,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,2.0 Drones,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.0 Drones,Τρίτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.0 Drones,Τρίτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.0 Drones,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.0 Drones,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.0 Drones,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.0 Drones,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.0 Drones,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.2 DH Maintenence,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.2 DH Maintenence,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.2 DH Maintenence,Δευτέρα,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.2 DH Maintenence,Δευτέρα,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.2 DH Maintenence,Δευτέρα,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.2 DH Maintenence,Δευτέρα,1
+11.0,ΚΙΛΚΙΣ,2.2 DH Maintenence,Δευτέρα,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.2 DH Maintenence,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.2 DH Maintenence,Δευτέρα,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.2 DH Maintenence,Δευτέρα,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.2 DH Maintenence,Δευτέρα,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.2 DH Maintenence,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.2 DH Maintenence,Δευτέρα,1
+121.0,ΡΕΘΥΜΝΟ 1,2.2 DH Maintenence,Δευτέρα,1
+121.1,ΡΕΘΥΜΝΟ 2,2.2 DH Maintenence,Δευτέρα,1
+122.0,ΧΑΝΙΑ 1,2.2 DH Maintenence,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,2.2 DH Maintenence,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,2.2 DH Maintenence,Δευτέρα,1
+123.0,ΛΑΣΙΘΗ 1,2.2 DH Maintenence,Δευτέρα,1
+123.1,ΛΑΣΙΘΗ 2,2.2 DH Maintenence,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,2.2 DH Maintenence,Δευτέρα,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.2 DH Maintenence,Δευτέρα,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.2 DH Maintenence,Δευτέρα,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.2 DH Maintenence,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.2 DH Maintenence,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,2.2 DH Maintenence,Δευτέρα,1
+15.1,ΝΑΟΥΣΑ,2.2 DH Maintenence,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,2.2 DH Maintenence,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,2.2 DH Maintenence,Δευτέρα,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.2 DH Maintenence,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.2 DH Maintenence,Δευτέρα,1
+2.1,ΙΑΣΜΟΥ,2.2 DH Maintenence,Δευτέρα,1
+2.2,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Δευτέρα,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.2 DH Maintenence,Δευτέρα,1
+2.4,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Δευτέρα,1
+20.0,ΑΜΥΝΤΑΙΟ,2.2 DH Maintenence,Δευτέρα,1
+21.0,ΚΑΣΤΟΡΙΑ,2.2 DH Maintenence,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,2.2 DH Maintenence,Δευτέρα,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Δευτέρα,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Δευτέρα,1
+23.0,ΓΡΕΒΕΝΑ,2.2 DH Maintenence,Δευτέρα,1
+3.0,ΞΑΝΘΗ,2.2 DH Maintenence,Δευτέρα,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.2 DH Maintenence,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,2.2 DH Maintenence,Δευτέρα,1
+4.1,ΟΦΡΥΝΙΟ,2.2 DH Maintenence,Δευτέρα,1
+4.2,ΘΑΣΟΣ,2.2 DH Maintenence,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,2.2 DH Maintenence,Δευτέρα,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.2 DH Maintenence,Δευτέρα,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.2 DH Maintenence,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,2.2 DH Maintenence,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,2.2 DH Maintenence,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,2.2 DH Maintenence,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.2 DH Maintenence,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,2.2 DH Maintenence,Δευτέρα,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.2 DH Maintenence,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.2 DH Maintenence,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,2.2 DH Maintenence,Δευτέρα,1
+43.0,ΒΟΛΟΣ,2.2 DH Maintenence,Δευτέρα,1
+43.1,ΠΗΛΙΟ,2.2 DH Maintenence,Δευτέρα,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.2 DH Maintenence,Δευτέρα,1
+5.0,ΔΡΑΜΑ,2.2 DH Maintenence,Δευτέρα,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.2 DH Maintenence,Δευτέρα,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.2 DH Maintenence,Δευτέρα,1
+80.0,ΑΧΑΙΑΣ 1,2.2 DH Maintenence,Δευτέρα,1
+80.1,ΑΧΑΙΑΣ 2,2.2 DH Maintenence,Δευτέρα,1
+80.2,ΑΧΑΙΑΣ 3,2.2 DH Maintenence,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,2.2 DH Maintenence,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,2.2 DH Maintenence,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,2.2 DH Maintenence,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,2.2 DH Maintenence,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.2 DH Maintenence,Δευτέρα,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.2 DH Maintenence,Δευτέρα,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.2 DH Maintenence,Δευτέρα,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.2 DH Maintenence,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.2 DH Maintenence,Δευτέρα,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.2 DH Maintenence,Δευτέρα,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.2 DH Maintenence,Παρασκευή,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.2 DH Maintenence,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.2 DH Maintenence,Παρασκευή,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.2 DH Maintenence,Παρασκευή,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.2 DH Maintenence,Παρασκευή,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.2 DH Maintenence,Παρασκευή,1
+11.0,ΚΙΛΚΙΣ,2.2 DH Maintenence,Παρασκευή,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.2 DH Maintenence,Παρασκευή,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.2 DH Maintenence,Παρασκευή,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.2 DH Maintenence,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.2 DH Maintenence,Παρασκευή,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.2 DH Maintenence,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.2 DH Maintenence,Παρασκευή,1
+121.0,ΡΕΘΥΜΝΟ 1,2.2 DH Maintenence,Παρασκευή,1
+121.1,ΡΕΘΥΜΝΟ 2,2.2 DH Maintenence,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,2.2 DH Maintenence,Παρασκευή,1
+122.1,ΧΑΝΙΑ 2,2.2 DH Maintenence,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,2.2 DH Maintenence,Παρασκευή,1
+123.0,ΛΑΣΙΘΗ 1,2.2 DH Maintenence,Παρασκευή,1
+123.1,ΛΑΣΙΘΗ 2,2.2 DH Maintenence,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,2.2 DH Maintenence,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.2 DH Maintenence,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.2 DH Maintenence,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.2 DH Maintenence,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.2 DH Maintenence,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,2.2 DH Maintenence,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,2.2 DH Maintenence,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,2.2 DH Maintenence,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,2.2 DH Maintenence,Παρασκευή,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.2 DH Maintenence,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.2 DH Maintenence,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,2.2 DH Maintenence,Παρασκευή,1
+2.2,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.2 DH Maintenence,Παρασκευή,1
+2.4,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Παρασκευή,1
+20.0,ΑΜΥΝΤΑΙΟ,2.2 DH Maintenence,Παρασκευή,1
+21.0,ΚΑΣΤΟΡΙΑ,2.2 DH Maintenence,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,2.2 DH Maintenence,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Παρασκευή,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Παρασκευή,1
+23.0,ΓΡΕΒΕΝΑ,2.2 DH Maintenence,Παρασκευή,1
+3.0,ΞΑΝΘΗ,2.2 DH Maintenence,Παρασκευή,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.2 DH Maintenence,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,2.2 DH Maintenence,Παρασκευή,1
+4.1,ΟΦΡΥΝΙΟ,2.2 DH Maintenence,Παρασκευή,1
+4.2,ΘΑΣΟΣ,2.2 DH Maintenence,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,2.2 DH Maintenence,Παρασκευή,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.2 DH Maintenence,Παρασκευή,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.2 DH Maintenence,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,2.2 DH Maintenence,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,2.2 DH Maintenence,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,2.2 DH Maintenence,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.2 DH Maintenence,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,2.2 DH Maintenence,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.2 DH Maintenence,Παρασκευή,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.2 DH Maintenence,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,2.2 DH Maintenence,Παρασκευή,1
+43.0,ΒΟΛΟΣ,2.2 DH Maintenence,Παρασκευή,1
+43.1,ΠΗΛΙΟ,2.2 DH Maintenence,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.2 DH Maintenence,Παρασκευή,1
+5.0,ΔΡΑΜΑ,2.2 DH Maintenence,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.2 DH Maintenence,Παρασκευή,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.2 DH Maintenence,Παρασκευή,1
+80.0,ΑΧΑΙΑΣ 1,2.2 DH Maintenence,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,2.2 DH Maintenence,Παρασκευή,1
+80.2,ΑΧΑΙΑΣ 3,2.2 DH Maintenence,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,2.2 DH Maintenence,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,2.2 DH Maintenence,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,2.2 DH Maintenence,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,2.2 DH Maintenence,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.2 DH Maintenence,Παρασκευή,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.2 DH Maintenence,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.2 DH Maintenence,Παρασκευή,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.2 DH Maintenence,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.2 DH Maintenence,Παρασκευή,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.2 DH Maintenence,Παρασκευή,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.2 DH Maintenence,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.2 DH Maintenence,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.2 DH Maintenence,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.2 DH Maintenence,Πέμπτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.2 DH Maintenence,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.2 DH Maintenence,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,2.2 DH Maintenence,Πέμπτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.2 DH Maintenence,Πέμπτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.2 DH Maintenence,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.2 DH Maintenence,Πέμπτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.2 DH Maintenence,Πέμπτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.2 DH Maintenence,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.2 DH Maintenence,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.2 DH Maintenence,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.2 DH Maintenence,Πέμπτη,1
+122.0,ΧΑΝΙΑ 1,2.2 DH Maintenence,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,2.2 DH Maintenence,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,2.2 DH Maintenence,Πέμπτη,1
+123.0,ΛΑΣΙΘΗ 1,2.2 DH Maintenence,Πέμπτη,1
+123.1,ΛΑΣΙΘΗ 2,2.2 DH Maintenence,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,2.2 DH Maintenence,Πέμπτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.2 DH Maintenence,Πέμπτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.2 DH Maintenence,Πέμπτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.2 DH Maintenence,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.2 DH Maintenence,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,2.2 DH Maintenence,Πέμπτη,1
+15.1,ΝΑΟΥΣΑ,2.2 DH Maintenence,Πέμπτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.2 DH Maintenence,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.2 DH Maintenence,Πέμπτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.2 DH Maintenence,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.2 DH Maintenence,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,2.2 DH Maintenence,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Πέμπτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.2 DH Maintenence,Πέμπτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Πέμπτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.2 DH Maintenence,Πέμπτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.2 DH Maintenence,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,2.2 DH Maintenence,Πέμπτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,2.2 DH Maintenence,Πέμπτη,1
+3.0,ΞΑΝΘΗ,2.2 DH Maintenence,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.2 DH Maintenence,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,2.2 DH Maintenence,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,2.2 DH Maintenence,Πέμπτη,1
+4.2,ΘΑΣΟΣ,2.2 DH Maintenence,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,2.2 DH Maintenence,Πέμπτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.2 DH Maintenence,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.2 DH Maintenence,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.2 DH Maintenence,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,2.2 DH Maintenence,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,2.2 DH Maintenence,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.2 DH Maintenence,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,2.2 DH Maintenence,Πέμπτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.2 DH Maintenence,Πέμπτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.2 DH Maintenence,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.2 DH Maintenence,Πέμπτη,1
+43.0,ΒΟΛΟΣ,2.2 DH Maintenence,Πέμπτη,1
+43.1,ΠΗΛΙΟ,2.2 DH Maintenence,Πέμπτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.2 DH Maintenence,Πέμπτη,1
+5.0,ΔΡΑΜΑ,2.2 DH Maintenence,Πέμπτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.2 DH Maintenence,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.2 DH Maintenence,Πέμπτη,1
+80.0,ΑΧΑΙΑΣ 1,2.2 DH Maintenence,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,2.2 DH Maintenence,Πέμπτη,1
+80.2,ΑΧΑΙΑΣ 3,2.2 DH Maintenence,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,2.2 DH Maintenence,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,2.2 DH Maintenence,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,2.2 DH Maintenence,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,2.2 DH Maintenence,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.2 DH Maintenence,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.2 DH Maintenence,Πέμπτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.2 DH Maintenence,Πέμπτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.2 DH Maintenence,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.2 DH Maintenence,Πέμπτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.2 DH Maintenence,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.2 DH Maintenence,Τετάρτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.2 DH Maintenence,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.2 DH Maintenence,Τετάρτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.2 DH Maintenence,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.2 DH Maintenence,Τετάρτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.2 DH Maintenence,Τετάρτη,1
+11.0,ΚΙΛΚΙΣ,2.2 DH Maintenence,Τετάρτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.2 DH Maintenence,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.2 DH Maintenence,Τετάρτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.2 DH Maintenence,Τετάρτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.2 DH Maintenence,Τετάρτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.2 DH Maintenence,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.2 DH Maintenence,Τετάρτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.2 DH Maintenence,Τετάρτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.2 DH Maintenence,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,2.2 DH Maintenence,Τετάρτη,1
+122.1,ΧΑΝΙΑ 2,2.2 DH Maintenence,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,2.2 DH Maintenence,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,2.2 DH Maintenence,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,2.2 DH Maintenence,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,2.2 DH Maintenence,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.2 DH Maintenence,Τετάρτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.2 DH Maintenence,Τετάρτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.2 DH Maintenence,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.2 DH Maintenence,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,2.2 DH Maintenence,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,2.2 DH Maintenence,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.2 DH Maintenence,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.2 DH Maintenence,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.2 DH Maintenence,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.2 DH Maintenence,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,2.2 DH Maintenence,Τετάρτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.2 DH Maintenence,Τετάρτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.2 DH Maintenence,Τετάρτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.2 DH Maintenence,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,2.2 DH Maintenence,Τετάρτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Τετάρτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Τετάρτη,1
+23.0,ΓΡΕΒΕΝΑ,2.2 DH Maintenence,Τετάρτη,1
+3.0,ΞΑΝΘΗ,2.2 DH Maintenence,Τετάρτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.2 DH Maintenence,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,2.2 DH Maintenence,Τετάρτη,1
+4.1,ΟΦΡΥΝΙΟ,2.2 DH Maintenence,Τετάρτη,1
+4.2,ΘΑΣΟΣ,2.2 DH Maintenence,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,2.2 DH Maintenence,Τετάρτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.2 DH Maintenence,Τετάρτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.2 DH Maintenence,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.2 DH Maintenence,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,2.2 DH Maintenence,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,2.2 DH Maintenence,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.2 DH Maintenence,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,2.2 DH Maintenence,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.2 DH Maintenence,Τετάρτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.2 DH Maintenence,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.2 DH Maintenence,Τετάρτη,1
+43.0,ΒΟΛΟΣ,2.2 DH Maintenence,Τετάρτη,1
+43.1,ΠΗΛΙΟ,2.2 DH Maintenence,Τετάρτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.2 DH Maintenence,Τετάρτη,1
+5.0,ΔΡΑΜΑ,2.2 DH Maintenence,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.2 DH Maintenence,Τετάρτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.2 DH Maintenence,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,2.2 DH Maintenence,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,2.2 DH Maintenence,Τετάρτη,1
+80.2,ΑΧΑΙΑΣ 3,2.2 DH Maintenence,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,2.2 DH Maintenence,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,2.2 DH Maintenence,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,2.2 DH Maintenence,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,2.2 DH Maintenence,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.2 DH Maintenence,Τετάρτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.2 DH Maintenence,Τετάρτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.2 DH Maintenence,Τετάρτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.2 DH Maintenence,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.2 DH Maintenence,Τετάρτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.2 DH Maintenence,Τετάρτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.2 DH Maintenence,Τρίτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.2 DH Maintenence,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.2 DH Maintenence,Τρίτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.2 DH Maintenence,Τρίτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.2 DH Maintenence,Τρίτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.2 DH Maintenence,Τρίτη,1
+11.0,ΚΙΛΚΙΣ,2.2 DH Maintenence,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.2 DH Maintenence,Τρίτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.2 DH Maintenence,Τρίτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.2 DH Maintenence,Τρίτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.2 DH Maintenence,Τρίτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.2 DH Maintenence,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.2 DH Maintenence,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.2 DH Maintenence,Τρίτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.2 DH Maintenence,Τρίτη,1
+122.0,ΧΑΝΙΑ 1,2.2 DH Maintenence,Τρίτη,1
+122.1,ΧΑΝΙΑ 2,2.2 DH Maintenence,Τρίτη,1
+122.2,ΧΑΝΙΑ 3,2.2 DH Maintenence,Τρίτη,1
+123.0,ΛΑΣΙΘΗ 1,2.2 DH Maintenence,Τρίτη,1
+123.1,ΛΑΣΙΘΗ 2,2.2 DH Maintenence,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,2.2 DH Maintenence,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.2 DH Maintenence,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.2 DH Maintenence,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.2 DH Maintenence,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.2 DH Maintenence,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,2.2 DH Maintenence,Τρίτη,1
+15.1,ΝΑΟΥΣΑ,2.2 DH Maintenence,Τρίτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.2 DH Maintenence,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.2 DH Maintenence,Τρίτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.2 DH Maintenence,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.2 DH Maintenence,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,2.2 DH Maintenence,Τρίτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Τρίτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.2 DH Maintenence,Τρίτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.2 DH Maintenence,Τρίτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.2 DH Maintenence,Τρίτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.2 DH Maintenence,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,2.2 DH Maintenence,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Τρίτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.2 DH Maintenence,Τρίτη,1
+23.0,ΓΡΕΒΕΝΑ,2.2 DH Maintenence,Τρίτη,1
+3.0,ΞΑΝΘΗ,2.2 DH Maintenence,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.2 DH Maintenence,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,2.2 DH Maintenence,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,2.2 DH Maintenence,Τρίτη,1
+4.2,ΘΑΣΟΣ,2.2 DH Maintenence,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,2.2 DH Maintenence,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.2 DH Maintenence,Τρίτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.2 DH Maintenence,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.2 DH Maintenence,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,2.2 DH Maintenence,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,2.2 DH Maintenence,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.2 DH Maintenence,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,2.2 DH Maintenence,Τρίτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.2 DH Maintenence,Τρίτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.2 DH Maintenence,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.2 DH Maintenence,Τρίτη,1
+43.0,ΒΟΛΟΣ,2.2 DH Maintenence,Τρίτη,1
+43.1,ΠΗΛΙΟ,2.2 DH Maintenence,Τρίτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.2 DH Maintenence,Τρίτη,1
+5.0,ΔΡΑΜΑ,2.2 DH Maintenence,Τρίτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.2 DH Maintenence,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.2 DH Maintenence,Τρίτη,1
+80.0,ΑΧΑΙΑΣ 1,2.2 DH Maintenence,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,2.2 DH Maintenence,Τρίτη,1
+80.2,ΑΧΑΙΑΣ 3,2.2 DH Maintenence,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,2.2 DH Maintenence,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,2.2 DH Maintenence,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,2.2 DH Maintenence,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,2.2 DH Maintenence,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.2 DH Maintenence,Τρίτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.2 DH Maintenence,Τρίτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.2 DH Maintenence,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.2 DH Maintenence,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.2 DH Maintenence,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.2 DH Maintenence,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.2 DH Maintenence,Τρίτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.1 PV,Δευτέρα,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.1 PV,Δευτέρα,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.1 PV,Δευτέρα,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.1 PV,Δευτέρα,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.1 PV,Δευτέρα,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.1 PV,Δευτέρα,1
+11.0,ΚΙΛΚΙΣ,2.1 PV,Δευτέρα,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.1 PV,Δευτέρα,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.1 PV,Δευτέρα,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.1 PV,Δευτέρα,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.1 PV,Δευτέρα,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.1 PV,Δευτέρα,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.1 PV,Δευτέρα,1
+121.0,ΡΕΘΥΜΝΟ 1,2.1 PV,Δευτέρα,1
+121.1,ΡΕΘΥΜΝΟ 2,2.1 PV,Δευτέρα,1
+122.0,ΧΑΝΙΑ 1,2.1 PV,Δευτέρα,1
+122.1,ΧΑΝΙΑ 2,2.1 PV,Δευτέρα,1
+122.2,ΧΑΝΙΑ 3,2.1 PV,Δευτέρα,1
+123.0,ΛΑΣΙΘΗ 1,2.1 PV,Δευτέρα,1
+123.1,ΛΑΣΙΘΗ 2,2.1 PV,Δευτέρα,1
+123.2,ΛΑΣΙΘΗ 3,2.1 PV,Δευτέρα,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.1 PV,Δευτέρα,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.1 PV,Δευτέρα,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.1 PV,Δευτέρα,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.1 PV,Δευτέρα,1
+15.0,ΒΕΡΟΙΑ,2.1 PV,Δευτέρα,1
+15.1,ΝΑΟΥΣΑ,2.1 PV,Δευτέρα,1
+150.1,ΣΑΛΑΜΙΝΑ,2.1 PV,Δευτέρα,1
+16.0,ΚΑΤΕΡΙΝΗ,2.1 PV,Δευτέρα,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.1 PV,Δευτέρα,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.1 PV,Δευτέρα,1
+2.1,ΙΑΣΜΟΥ,2.1 PV,Δευτέρα,1
+2.2,ΑΡΡΙΑΝΩΝ,2.1 PV,Δευτέρα,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.1 PV,Δευτέρα,1
+2.4,ΑΡΡΙΑΝΩΝ,2.1 PV,Δευτέρα,1
+20.0,ΑΜΥΝΤΑΙΟ,2.1 PV,Δευτέρα,1
+21.0,ΚΑΣΤΟΡΙΑ,2.1 PV,Δευτέρα,1
+22.0,ΚΟΖΑΝΗ,2.1 PV,Δευτέρα,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.1 PV,Δευτέρα,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.1 PV,Δευτέρα,1
+23.0,ΓΡΕΒΕΝΑ,2.1 PV,Δευτέρα,1
+3.0,ΞΑΝΘΗ,2.1 PV,Δευτέρα,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.1 PV,Δευτέρα,1
+4.0,ΚΑΒΑΛΑ,2.1 PV,Δευτέρα,1
+4.1,ΟΦΡΥΝΙΟ,2.1 PV,Δευτέρα,1
+4.2,ΘΑΣΟΣ,2.1 PV,Δευτέρα,1
+40.0,ΤΡΙΚΑΛΑ,2.1 PV,Δευτέρα,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.1 PV,Δευτέρα,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.1 PV,Δευτέρα,1
+41.0,ΚΑΡΔΙΤΣΑ,2.1 PV,Δευτέρα,1
+41.1,ΠΑΛΑΜΑΣ,2.1 PV,Δευτέρα,1
+41.2,ΣΟΦΑΔΕΣ,2.1 PV,Δευτέρα,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.1 PV,Δευτέρα,1
+42.0,ΛΑΡΙΣΑ,2.1 PV,Δευτέρα,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.1 PV,Δευτέρα,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.1 PV,Δευτέρα,1
+42.3,ΕΛΑΣΣΟΝΑ,2.1 PV,Δευτέρα,1
+43.0,ΒΟΛΟΣ,2.1 PV,Δευτέρα,1
+43.1,ΠΗΛΙΟ,2.1 PV,Δευτέρα,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.1 PV,Δευτέρα,1
+5.0,ΔΡΑΜΑ,2.1 PV,Δευτέρα,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.1 PV,Δευτέρα,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.1 PV,Δευτέρα,1
+80.0,ΑΧΑΙΑΣ 1,2.1 PV,Δευτέρα,1
+80.1,ΑΧΑΙΑΣ 2,2.1 PV,Δευτέρα,1
+80.2,ΑΧΑΙΑΣ 3,2.1 PV,Δευτέρα,1
+80.3,ΠΑΤΡΑΣ 1,2.1 PV,Δευτέρα,1
+80.4,ΠΑΤΡΑΣ 2,2.1 PV,Δευτέρα,1
+80.5,ΠΑΤΡΑΣ 3,2.1 PV,Δευτέρα,1
+80.6,ΑΧΑΙΑΣ 4,2.1 PV,Δευτέρα,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.1 PV,Δευτέρα,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.1 PV,Δευτέρα,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.1 PV,Δευτέρα,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.1 PV,Δευτέρα,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.1 PV,Δευτέρα,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.1 PV,Δευτέρα,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Δευτέρα,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.1 PV,Παρασκευή,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.1 PV,Παρασκευή,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.1 PV,Παρασκευή,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.1 PV,Παρασκευή,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.1 PV,Παρασκευή,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.1 PV,Παρασκευή,1
+11.0,ΚΙΛΚΙΣ,2.1 PV,Παρασκευή,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.1 PV,Παρασκευή,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.1 PV,Παρασκευή,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.1 PV,Παρασκευή,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.1 PV,Παρασκευή,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.1 PV,Παρασκευή,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.1 PV,Παρασκευή,1
+121.0,ΡΕΘΥΜΝΟ 1,2.1 PV,Παρασκευή,1
+121.1,ΡΕΘΥΜΝΟ 2,2.1 PV,Παρασκευή,1
+122.0,ΧΑΝΙΑ 1,2.1 PV,Παρασκευή,1
+122.1,ΧΑΝΙΑ 2,2.1 PV,Παρασκευή,1
+122.2,ΧΑΝΙΑ 3,2.1 PV,Παρασκευή,1
+123.0,ΛΑΣΙΘΗ 1,2.1 PV,Παρασκευή,1
+123.1,ΛΑΣΙΘΗ 2,2.1 PV,Παρασκευή,1
+123.2,ΛΑΣΙΘΗ 3,2.1 PV,Παρασκευή,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.1 PV,Παρασκευή,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.1 PV,Παρασκευή,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.1 PV,Παρασκευή,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.1 PV,Παρασκευή,1
+15.0,ΒΕΡΟΙΑ,2.1 PV,Παρασκευή,1
+15.1,ΝΑΟΥΣΑ,2.1 PV,Παρασκευή,1
+150.1,ΣΑΛΑΜΙΝΑ,2.1 PV,Παρασκευή,1
+16.0,ΚΑΤΕΡΙΝΗ,2.1 PV,Παρασκευή,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.1 PV,Παρασκευή,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.1 PV,Παρασκευή,1
+2.1,ΙΑΣΜΟΥ,2.1 PV,Παρασκευή,1
+2.2,ΑΡΡΙΑΝΩΝ,2.1 PV,Παρασκευή,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.1 PV,Παρασκευή,1
+2.4,ΑΡΡΙΑΝΩΝ,2.1 PV,Παρασκευή,1
+20.0,ΑΜΥΝΤΑΙΟ,2.1 PV,Παρασκευή,1
+21.0,ΚΑΣΤΟΡΙΑ,2.1 PV,Παρασκευή,1
+22.0,ΚΟΖΑΝΗ,2.1 PV,Παρασκευή,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.1 PV,Παρασκευή,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.1 PV,Παρασκευή,1
+23.0,ΓΡΕΒΕΝΑ,2.1 PV,Παρασκευή,1
+3.0,ΞΑΝΘΗ,2.1 PV,Παρασκευή,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.1 PV,Παρασκευή,1
+4.0,ΚΑΒΑΛΑ,2.1 PV,Παρασκευή,1
+4.1,ΟΦΡΥΝΙΟ,2.1 PV,Παρασκευή,1
+4.2,ΘΑΣΟΣ,2.1 PV,Παρασκευή,1
+40.0,ΤΡΙΚΑΛΑ,2.1 PV,Παρασκευή,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.1 PV,Παρασκευή,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.1 PV,Παρασκευή,1
+41.0,ΚΑΡΔΙΤΣΑ,2.1 PV,Παρασκευή,1
+41.1,ΠΑΛΑΜΑΣ,2.1 PV,Παρασκευή,1
+41.2,ΣΟΦΑΔΕΣ,2.1 PV,Παρασκευή,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.1 PV,Παρασκευή,1
+42.0,ΛΑΡΙΣΑ,2.1 PV,Παρασκευή,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.1 PV,Παρασκευή,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.1 PV,Παρασκευή,1
+42.3,ΕΛΑΣΣΟΝΑ,2.1 PV,Παρασκευή,1
+43.0,ΒΟΛΟΣ,2.1 PV,Παρασκευή,1
+43.1,ΠΗΛΙΟ,2.1 PV,Παρασκευή,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.1 PV,Παρασκευή,1
+5.0,ΔΡΑΜΑ,2.1 PV,Παρασκευή,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.1 PV,Παρασκευή,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.1 PV,Παρασκευή,1
+80.0,ΑΧΑΙΑΣ 1,2.1 PV,Παρασκευή,1
+80.1,ΑΧΑΙΑΣ 2,2.1 PV,Παρασκευή,1
+80.2,ΑΧΑΙΑΣ 3,2.1 PV,Παρασκευή,1
+80.3,ΠΑΤΡΑΣ 1,2.1 PV,Παρασκευή,1
+80.4,ΠΑΤΡΑΣ 2,2.1 PV,Παρασκευή,1
+80.5,ΠΑΤΡΑΣ 3,2.1 PV,Παρασκευή,1
+80.6,ΑΧΑΙΑΣ 4,2.1 PV,Παρασκευή,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.1 PV,Παρασκευή,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.1 PV,Παρασκευή,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.1 PV,Παρασκευή,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.1 PV,Παρασκευή,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.1 PV,Παρασκευή,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.1 PV,Παρασκευή,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Παρασκευή,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.1 PV,Πέμπτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.1 PV,Πέμπτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.1 PV,Πέμπτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.1 PV,Πέμπτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.1 PV,Πέμπτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.1 PV,Πέμπτη,1
+11.0,ΚΙΛΚΙΣ,2.1 PV,Πέμπτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.1 PV,Πέμπτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.1 PV,Πέμπτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.1 PV,Πέμπτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.1 PV,Πέμπτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.1 PV,Πέμπτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.1 PV,Πέμπτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.1 PV,Πέμπτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.1 PV,Πέμπτη,1
+122.0,ΧΑΝΙΑ 1,2.1 PV,Πέμπτη,1
+122.1,ΧΑΝΙΑ 2,2.1 PV,Πέμπτη,1
+122.2,ΧΑΝΙΑ 3,2.1 PV,Πέμπτη,1
+123.0,ΛΑΣΙΘΗ 1,2.1 PV,Πέμπτη,1
+123.1,ΛΑΣΙΘΗ 2,2.1 PV,Πέμπτη,1
+123.2,ΛΑΣΙΘΗ 3,2.1 PV,Πέμπτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.1 PV,Πέμπτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.1 PV,Πέμπτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.1 PV,Πέμπτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.1 PV,Πέμπτη,1
+15.0,ΒΕΡΟΙΑ,2.1 PV,Πέμπτη,1
+15.1,ΝΑΟΥΣΑ,2.1 PV,Πέμπτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.1 PV,Πέμπτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.1 PV,Πέμπτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.1 PV,Πέμπτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.1 PV,Πέμπτη,1
+2.1,ΙΑΣΜΟΥ,2.1 PV,Πέμπτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.1 PV,Πέμπτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.1 PV,Πέμπτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.1 PV,Πέμπτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.1 PV,Πέμπτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.1 PV,Πέμπτη,1
+22.0,ΚΟΖΑΝΗ,2.1 PV,Πέμπτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.1 PV,Πέμπτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.1 PV,Πέμπτη,1
+23.0,ΓΡΕΒΕΝΑ,2.1 PV,Πέμπτη,1
+3.0,ΞΑΝΘΗ,2.1 PV,Πέμπτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.1 PV,Πέμπτη,1
+4.0,ΚΑΒΑΛΑ,2.1 PV,Πέμπτη,1
+4.1,ΟΦΡΥΝΙΟ,2.1 PV,Πέμπτη,1
+4.2,ΘΑΣΟΣ,2.1 PV,Πέμπτη,1
+40.0,ΤΡΙΚΑΛΑ,2.1 PV,Πέμπτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.1 PV,Πέμπτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.1 PV,Πέμπτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.1 PV,Πέμπτη,1
+41.1,ΠΑΛΑΜΑΣ,2.1 PV,Πέμπτη,1
+41.2,ΣΟΦΑΔΕΣ,2.1 PV,Πέμπτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.1 PV,Πέμπτη,1
+42.0,ΛΑΡΙΣΑ,2.1 PV,Πέμπτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.1 PV,Πέμπτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.1 PV,Πέμπτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.1 PV,Πέμπτη,1
+43.0,ΒΟΛΟΣ,2.1 PV,Πέμπτη,1
+43.1,ΠΗΛΙΟ,2.1 PV,Πέμπτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.1 PV,Πέμπτη,1
+5.0,ΔΡΑΜΑ,2.1 PV,Πέμπτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.1 PV,Πέμπτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.1 PV,Πέμπτη,1
+80.0,ΑΧΑΙΑΣ 1,2.1 PV,Πέμπτη,1
+80.1,ΑΧΑΙΑΣ 2,2.1 PV,Πέμπτη,1
+80.2,ΑΧΑΙΑΣ 3,2.1 PV,Πέμπτη,1
+80.3,ΠΑΤΡΑΣ 1,2.1 PV,Πέμπτη,1
+80.4,ΠΑΤΡΑΣ 2,2.1 PV,Πέμπτη,1
+80.5,ΠΑΤΡΑΣ 3,2.1 PV,Πέμπτη,1
+80.6,ΑΧΑΙΑΣ 4,2.1 PV,Πέμπτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.1 PV,Πέμπτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.1 PV,Πέμπτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.1 PV,Πέμπτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.1 PV,Πέμπτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.1 PV,Πέμπτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.1 PV,Πέμπτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Πέμπτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.1 PV,Τετάρτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.1 PV,Τετάρτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.1 PV,Τετάρτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.1 PV,Τετάρτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.1 PV,Τετάρτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.1 PV,Τετάρτη,1
+11.0,ΚΙΛΚΙΣ,2.1 PV,Τετάρτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.1 PV,Τετάρτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.1 PV,Τετάρτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.1 PV,Τετάρτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.1 PV,Τετάρτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.1 PV,Τετάρτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.1 PV,Τετάρτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.1 PV,Τετάρτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.1 PV,Τετάρτη,1
+122.0,ΧΑΝΙΑ 1,2.1 PV,Τετάρτη,1
+122.1,ΧΑΝΙΑ 2,2.1 PV,Τετάρτη,1
+122.2,ΧΑΝΙΑ 3,2.1 PV,Τετάρτη,1
+123.0,ΛΑΣΙΘΗ 1,2.1 PV,Τετάρτη,1
+123.1,ΛΑΣΙΘΗ 2,2.1 PV,Τετάρτη,1
+123.2,ΛΑΣΙΘΗ 3,2.1 PV,Τετάρτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.1 PV,Τετάρτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.1 PV,Τετάρτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.1 PV,Τετάρτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.1 PV,Τετάρτη,1
+15.0,ΒΕΡΟΙΑ,2.1 PV,Τετάρτη,1
+15.1,ΝΑΟΥΣΑ,2.1 PV,Τετάρτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.1 PV,Τετάρτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.1 PV,Τετάρτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.1 PV,Τετάρτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.1 PV,Τετάρτη,1
+2.1,ΙΑΣΜΟΥ,2.1 PV,Τετάρτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.1 PV,Τετάρτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.1 PV,Τετάρτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.1 PV,Τετάρτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.1 PV,Τετάρτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.1 PV,Τετάρτη,1
+22.0,ΚΟΖΑΝΗ,2.1 PV,Τετάρτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.1 PV,Τετάρτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.1 PV,Τετάρτη,1
+23.0,ΓΡΕΒΕΝΑ,2.1 PV,Τετάρτη,1
+3.0,ΞΑΝΘΗ,2.1 PV,Τετάρτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.1 PV,Τετάρτη,1
+4.0,ΚΑΒΑΛΑ,2.1 PV,Τετάρτη,1
+4.1,ΟΦΡΥΝΙΟ,2.1 PV,Τετάρτη,1
+4.2,ΘΑΣΟΣ,2.1 PV,Τετάρτη,1
+40.0,ΤΡΙΚΑΛΑ,2.1 PV,Τετάρτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.1 PV,Τετάρτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.1 PV,Τετάρτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.1 PV,Τετάρτη,1
+41.1,ΠΑΛΑΜΑΣ,2.1 PV,Τετάρτη,1
+41.2,ΣΟΦΑΔΕΣ,2.1 PV,Τετάρτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.1 PV,Τετάρτη,1
+42.0,ΛΑΡΙΣΑ,2.1 PV,Τετάρτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.1 PV,Τετάρτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.1 PV,Τετάρτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.1 PV,Τετάρτη,1
+43.0,ΒΟΛΟΣ,2.1 PV,Τετάρτη,1
+43.1,ΠΗΛΙΟ,2.1 PV,Τετάρτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.1 PV,Τετάρτη,1
+5.0,ΔΡΑΜΑ,2.1 PV,Τετάρτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.1 PV,Τετάρτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.1 PV,Τετάρτη,1
+80.0,ΑΧΑΙΑΣ 1,2.1 PV,Τετάρτη,1
+80.1,ΑΧΑΙΑΣ 2,2.1 PV,Τετάρτη,1
+80.2,ΑΧΑΙΑΣ 3,2.1 PV,Τετάρτη,1
+80.3,ΠΑΤΡΑΣ 1,2.1 PV,Τετάρτη,1
+80.4,ΠΑΤΡΑΣ 2,2.1 PV,Τετάρτη,1
+80.5,ΠΑΤΡΑΣ 3,2.1 PV,Τετάρτη,1
+80.6,ΑΧΑΙΑΣ 4,2.1 PV,Τετάρτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.1 PV,Τετάρτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.1 PV,Τετάρτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.1 PV,Τετάρτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.1 PV,Τετάρτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.1 PV,Τετάρτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.1 PV,Τετάρτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τετάρτη,1
+1.0,ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ,2.1 PV,Τρίτη,1
+1.1,ΔΙΔΥΜΟΤΕΙΧΟ     ΟΡΕΣΤΙΑΔΑ,2.1 PV,Τρίτη,1
+10.0,ΣΕΡΡΩΝ - ΣΕΡΡΕΣ,2.1 PV,Τρίτη,1
+10.1,ΣΕΡΡΩΝ- ΝΕΑ ΖΙΧΝΗ,2.1 PV,Τρίτη,1
+10.2,ΣΕΡΡΩΝ - ΒΙΣΑΛΤΙΑ,2.1 PV,Τρίτη,1
+10.3,ΣΕΡΡΩΝ- ΗΡΑΚΛΕΙΑΣ,2.1 PV,Τρίτη,1
+11.0,ΚΙΛΚΙΣ,2.1 PV,Τρίτη,1
+120.0,ΗΡΑΚΛΕΙΟ 1,2.1 PV,Τρίτη,1
+120.1,ΗΡΑΚΛΕΙΟ 2,2.1 PV,Τρίτη,1
+120.2,ΗΡΑΚΛΕΙΟ 3,2.1 PV,Τρίτη,1
+120.3,ΗΡΑΚΛΕΙΟ 4,2.1 PV,Τρίτη,1
+120.4,ΗΡΑΚΛΕΙΟ 5,2.1 PV,Τρίτη,1
+120.5,ΗΡΑΚΛΕΙΟ 6,2.1 PV,Τρίτη,1
+121.0,ΡΕΘΥΜΝΟ 1,2.1 PV,Τρίτη,1
+121.1,ΡΕΘΥΜΝΟ 2,2.1 PV,Τρίτη,1
+122.0,ΧΑΝΙΑ 1,2.1 PV,Τρίτη,1
+122.1,ΧΑΝΙΑ 2,2.1 PV,Τρίτη,1
+122.2,ΧΑΝΙΑ 3,2.1 PV,Τρίτη,1
+123.0,ΛΑΣΙΘΗ 1,2.1 PV,Τρίτη,1
+123.1,ΛΑΣΙΘΗ 2,2.1 PV,Τρίτη,1
+123.2,ΛΑΣΙΘΗ 3,2.1 PV,Τρίτη,1
+13.0,ΧΑΛΚΙΔΙΚΗ 1 ΠΟΔΙ,2.1 PV,Τρίτη,1
+13.1,ΧΑΛΚΙΔΙΚΗ ΠΟΛΥΓΥΡΟΣ 2ΠΟΔΙ,2.1 PV,Τρίτη,1
+13.2,ΧΑΛΚΙΔΙΚΗ 3 ΠΟΔΙ,2.1 PV,Τρίτη,1
+14.0,ΓΙΑΝΝΙΤΣΑ   ΠΕΛΛΑ,2.1 PV,Τρίτη,1
+15.0,ΒΕΡΟΙΑ,2.1 PV,Τρίτη,1
+15.1,ΝΑΟΥΣΑ,2.1 PV,Τρίτη,1
+150.1,ΣΑΛΑΜΙΝΑ,2.1 PV,Τρίτη,1
+16.0,ΚΑΤΕΡΙΝΗ,2.1 PV,Τρίτη,1
+16.1,ΔΙΟΝ   ΚΟΡΙΝΟΣ,2.1 PV,Τρίτη,1
+2.0,ΚΟΜΟΤΗΝΗΣ,2.1 PV,Τρίτη,1
+2.1,ΙΑΣΜΟΥ,2.1 PV,Τρίτη,1
+2.2,ΑΡΡΙΑΝΩΝ,2.1 PV,Τρίτη,1
+2.3,ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ,2.1 PV,Τρίτη,1
+2.4,ΑΡΡΙΑΝΩΝ,2.1 PV,Τρίτη,1
+20.0,ΑΜΥΝΤΑΙΟ,2.1 PV,Τρίτη,1
+21.0,ΚΑΣΤΟΡΙΑ,2.1 PV,Τρίτη,1
+22.0,ΚΟΖΑΝΗ,2.1 PV,Τρίτη,1
+22.1,ΣΕΡΒΙΑ ΚΟΖΑΝΗΣ,2.1 PV,Τρίτη,1
+22.2,ΣΙΑΤΙΣΤΑ ΚΟΖΑΝΗΣ,2.1 PV,Τρίτη,1
+23.0,ΓΡΕΒΕΝΑ,2.1 PV,Τρίτη,1
+3.0,ΞΑΝΘΗ,2.1 PV,Τρίτη,1
+3.1,ΣΤΑΥΡΟΥΠΟΛΗ,2.1 PV,Τρίτη,1
+4.0,ΚΑΒΑΛΑ,2.1 PV,Τρίτη,1
+4.1,ΟΦΡΥΝΙΟ,2.1 PV,Τρίτη,1
+4.2,ΘΑΣΟΣ,2.1 PV,Τρίτη,1
+40.0,ΤΡΙΚΑΛΑ,2.1 PV,Τρίτη,1
+40.1,ΦΑΡΚΑΔΩΝΑ,2.1 PV,Τρίτη,1
+40.2,ΠΥΛΗ ΠΕΡΤΟΥΛΗ ΚΑΛΑΜΠΑΚΑ,2.1 PV,Τρίτη,1
+41.0,ΚΑΡΔΙΤΣΑ,2.1 PV,Τρίτη,1
+41.1,ΠΑΛΑΜΑΣ,2.1 PV,Τρίτη,1
+41.2,ΣΟΦΑΔΕΣ,2.1 PV,Τρίτη,1
+41.3,ΜΟΥΖΑΚΙ ΑΡΓΙΘΕΑ,2.1 PV,Τρίτη,1
+42.0,ΛΑΡΙΣΑ,2.1 PV,Τρίτη,1
+42.1,ΚΙΛΕΛΕΡ-ΦΑΡΣΑΛΑ,2.1 PV,Τρίτη,1
+42.2,ΤΕΜΠΟΙ -ΑΓΙΑ,2.1 PV,Τρίτη,1
+42.3,ΕΛΑΣΣΟΝΑ,2.1 PV,Τρίτη,1
+43.0,ΒΟΛΟΣ,2.1 PV,Τρίτη,1
+43.1,ΠΗΛΙΟ,2.1 PV,Τρίτη,1
+43.2,ΑΛΜΥΡΟΣ ΑΓΙΑ,2.1 PV,Τρίτη,1
+5.0,ΔΡΑΜΑ,2.1 PV,Τρίτη,1
+5.1,ΝΕΥΡΟΚΟΠΙ,2.1 PV,Τρίτη,1
+5.2,ΠΑΡΑΝΕΣΤΙ,2.1 PV,Τρίτη,1
+80.0,ΑΧΑΙΑΣ 1,2.1 PV,Τρίτη,1
+80.1,ΑΧΑΙΑΣ 2,2.1 PV,Τρίτη,1
+80.2,ΑΧΑΙΑΣ 3,2.1 PV,Τρίτη,1
+80.3,ΠΑΤΡΑΣ 1,2.1 PV,Τρίτη,1
+80.4,ΠΑΤΡΑΣ 2,2.1 PV,Τρίτη,1
+80.5,ΠΑΤΡΑΣ 3,2.1 PV,Τρίτη,1
+80.6,ΑΧΑΙΑΣ 4,2.1 PV,Τρίτη,1
+82.0,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΓΡΙΝΙΟΥ,2.1 PV,Τρίτη,1
+82.1,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ,2.1 PV,Τρίτη,1
+82.2,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΑΜΦΙΛΟΧΙΑΣ,2.1 PV,Τρίτη,1
+82.3,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΜΕΣΟΛΟΓΓΙΟΥ,2.1 PV,Τρίτη,1
+82.4,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΝΑΥΠΑΚΤΙΑΣ,2.1 PV,Τρίτη,1
+82.5,ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ ΞΗΡΟΜΕΡΟΥ,2.1 PV,Τρίτη,1
+90.0,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
+90.1,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
+90.2,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
+90.3,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
+90.4,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
+90.5,ΚΕΡΚΥΡΑΣ ΚΕΡΚΥΡΑΣ,2.1 PV,Τρίτη,1
